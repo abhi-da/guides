@@ -6,9 +6,9 @@
 - ✅ **Better Performance** - Handles large documents efficiently
 - ✅ **Enhanced Privacy** - Documents stay on your machine
 - ✅ **Cost Effective** - No subscription fees
-- ✅ **Local file system access - Images stay on your computer**
-- ✅ **Direct referencing - Use relative paths in your LaTeX code**
-- ✅ **No uploading required - Images are accessed directly from your project folder**
+- ✅ **Local file system access** - Images stay on your computer
+- ✅ **Direct referencing** - Use relative paths in your LaTeX code
+- ✅ **No uploading required** - Images are accessed directly from your project folder
 
 
 
